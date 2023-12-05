@@ -1,0 +1,14 @@
+.dragAndDrop{
+      border : 1px dashed black;
+}
+audio{
+      width: 15vw;
+}
+.recordlink {
+      width: 10vw;
+}
+#recordingsList{
+      float: left;
+      margin-left: 2vw;
+      width: 15vw;
+}

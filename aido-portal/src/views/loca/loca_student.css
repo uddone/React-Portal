@@ -1,0 +1,10 @@
+@media (max-width : 1200px) {
+    .col-lg-4{
+        width: 100%;
+        flex : 0 0 100%;
+        max-width: 100%
+    }
+}
+.hed{
+    background-color: #e7e6e6;
+}

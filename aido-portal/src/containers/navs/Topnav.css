@@ -1,0 +1,9 @@
+.edulogo{
+    width:"200px";
+    height:"50px";
+}
+@media all and (max-width:766px) {
+    .edulogo{
+        width: 50px;
+    }
+}

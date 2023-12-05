@@ -1,0 +1,31 @@
+@media (max-width : 1200px) {
+    .col-lg-4{
+        width: 100%;
+        flex : 0 0 100%;
+        max-width: 100%
+    }
+}
+/* @media (min-width: 1440px) and (max-width: 1500px){
+
+} */
+@media (max-width: 1200px){
+    .col-md-8 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .col-md-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    
+}
+    
+th,td{
+    font-size: large;
+}
+th{
+    color: grey;
+}
+/* .card-text{
+    font-size: large;
+} */

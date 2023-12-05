@@ -1,0 +1,13 @@
+@media (max-width : 1200px) {
+    .col-lg-4{
+        width: 100%;
+        flex : 0 0 100%;
+        max-width: 100%
+    }
+}
+th,td{
+    font-size: x-large;
+}
+/* .card-text{
+    font-size: large;
+} */
